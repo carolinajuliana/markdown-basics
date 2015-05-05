@@ -1,4 +1,4 @@
-#Noções Básicas de MarkDown# 
+#Noções Básicas de MarkDown
 
 Markdown possibilita-lhe escrever usando um formato de texto simples, fácil-de-ler, fácil-de-escrever, que logo se converte em HTML válida para ser visualizada no GitHub.
 
