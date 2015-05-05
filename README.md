@@ -39,6 +39,6 @@ Aqui está um exemplo: Por que não tomarmos 'SuperiorProject'e transformá-lo e
 
 #Várias Linhas
 Antes do seu texto de título. O número de # que você usa irá determinar o tamanho do Cabeçalho.
-# O maior título (uma tag <h1>)
-## A segunda maior rubrica (um <h2> tag)
-###### A maior rubrica 6 (um <h6> tag)
+- O maior título (uma tag <h 1>)
+- A segunda maior rubrica (um <h 2> tag)
+- A maior rubrica 6 (um <h 6> tag)
