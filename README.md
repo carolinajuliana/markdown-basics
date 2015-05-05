@@ -37,8 +37,8 @@ Você pode criar listas aninhadas pelo recuo dos intens da lista por dois espaç
 Use aspas individuais (') para formatar o texto em um formato monospace especial. Tudo dentro das aspas aparece como está, sem nenhuma outra formatação especial.
 Aqui está um exemplo: Por que não tomarmos 'SuperiorProject'e transformá-lo em '**Razoável**Project'. 
 
-#Várias Linhas
+##Várias Linhas
 Antes do seu texto de título. O número de # que você usa irá determinar o tamanho do Cabeçalho.
-- O maior título (uma tag <h 1>)
-- A segunda maior rubrica (um <h 2> tag)
-- A maior rubrica 6 (um <h 6> tag)
+- O maior título (uma tag "<h1>")
+- A segunda maior rubrica (um "<h2>" tag)
+- A maior rubrica 6 (um "<h6>" tag)
