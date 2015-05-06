@@ -39,6 +39,21 @@ Aqui está um exemplo: Por que não tomarmos 'SuperiorProject'e transformá-lo e
 
 ##Várias Linhas
 Antes do seu texto de título. O número de # que você usa irá determinar o tamanho do Cabeçalho.
-- O maior título (uma tag "<h1>")
-- A segunda maior rubrica (um "<h2>" tag)
-- A maior rubrica 6 (um "<h6>" tag)
+- O maior título (uma tag ``h1>``)
+- A segunda maior rubrica (um ``<h2>`` tag)
+- A maior rubrica 6 (um ``<h6>`` tag)
+
+#Linhas Múltiplas
+Você pode usar três aspas (```) para formatar o texto como seu bloco distinto.
+Confira este problema claro que escrevi:
+```
+x = 0
+x = 2 + 2
+quanto é x
+```
+#Links
+Você pode criar um sublinhado do link através de colchetes ( [ ] ), e então criando o link entre parênteses ( ( ) ).
+Por exemplo,criar o hiperlink para www.github.com, com o texto link aquele que diz, Visite o GitHub!, você escreve em MarkDown: [Visite o GitHub!](www.github.com).
+
+
+
